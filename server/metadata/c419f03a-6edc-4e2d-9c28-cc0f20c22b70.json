@@ -1,0 +1,270 @@
+{
+  "file_id": "c419f03a-6edc-4e2d-9c28-cc0f20c22b70",
+  "filename": "dabda_practical_1.pdf",
+  "size": 1675232,
+  "blocks": 13,
+  "block_size": 131072,
+  "uploaded": "2026-04-24 10:47:32",
+  "block_map": [
+    {
+      "block_index": 0,
+      "block_size": 131072,
+      "nonce": "abf3a4696503832c762b7b7302bc15ff",
+      "tag": "898beb2f1ba2c79c5a3eac545ae5dfc5",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0000.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0000.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0000.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 1,
+      "block_size": 131072,
+      "nonce": "6aec6885d25b0c0f2064494e0faf5569",
+      "tag": "83d16b1cc4269bc82c37ad9732d0edcf",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0001.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0001.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0001.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 2,
+      "block_size": 131072,
+      "nonce": "d74ea25333d4c33ae3fde65ceb14747b",
+      "tag": "c6df87d2b09d2ea9654d91c1d29b1d7e",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0002.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0002.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0002.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 3,
+      "block_size": 131072,
+      "nonce": "1e7e1f3972d2ffaf32ff7716bc94bd54",
+      "tag": "2d16cfbb250153182fa83de92e0455ee",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0003.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0003.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0003.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 4,
+      "block_size": 131072,
+      "nonce": "323d9207356367a90a0959f0dc6bb7d3",
+      "tag": "06256a48c083dfd769704c8ee8aaaec7",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0004.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0004.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0004.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 5,
+      "block_size": 131072,
+      "nonce": "018405aadbce1156a459af00d7e460c4",
+      "tag": "47198723d63697e1cd665a966b5a7b2c",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0005.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0005.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0005.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 6,
+      "block_size": 131072,
+      "nonce": "a4c1369ed90f70e344498f539f3039ed",
+      "tag": "10b472dad2ec778770d6dd10b6875744",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0006.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0006.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0006.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 7,
+      "block_size": 131072,
+      "nonce": "bc3435c3e1d1be5ae56cdae0f5cd5b0c",
+      "tag": "71a1b08281c0362e48c24984668e5dd7",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0007.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0007.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0007.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 8,
+      "block_size": 131072,
+      "nonce": "561bf512f820099e51f9b4b438c39d76",
+      "tag": "3e36dcdacda7ef48b849ddc5a269c8d5",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0008.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0008.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0008.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 9,
+      "block_size": 131072,
+      "nonce": "a419505466269cd9f41cc447aa63a960",
+      "tag": "718e457c7881c88caa61360a4e5a6c35",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0009.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0009.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0009.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 10,
+      "block_size": 131072,
+      "nonce": "8fd6d4a8fb4862ef57ca1a842dde9d10",
+      "tag": "2ac5a3f8c28cf32f073b719fe6d484cc",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0010.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0010.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0010.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 11,
+      "block_size": 131072,
+      "nonce": "0542da74d1877b65111ed7c9e75db5cc",
+      "tag": "b3a6e8e44d475855a04870943a0645b3",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0011.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0011.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0011.enc"
+        }
+      ]
+    },
+    {
+      "block_index": 12,
+      "block_size": 102368,
+      "nonce": "0dd9a8da52a9e1f60b2d9579aa5bb61c",
+      "tag": "acadf978e7e6dfad2a4f7535a655a827",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0012.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0012.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\c419f03a-6edc-4e2d-9c28-cc0f20c22b70_block0012.enc"
+        }
+      ]
+    }
+  ]
+}

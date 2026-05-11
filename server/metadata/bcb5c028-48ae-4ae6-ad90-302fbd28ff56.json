@@ -1,0 +1,30 @@
+{
+  "file_id": "bcb5c028-48ae-4ae6-ad90-302fbd28ff56",
+  "filename": "assignment_1.pdf",
+  "size": 105608,
+  "blocks": 1,
+  "block_size": 131072,
+  "uploaded": "2026-04-27 22:41:37",
+  "block_map": [
+    {
+      "block_index": 0,
+      "block_size": 105608,
+      "nonce": "7427a8d6d9a919189cf002813f540abc",
+      "tag": "f2caf4ea346ce15a27ded20b4af11694",
+      "locations": [
+        {
+          "node": "datanode1",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode1\\bcb5c028-48ae-4ae6-ad90-302fbd28ff56_block0000.enc"
+        },
+        {
+          "node": "datanode2",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode2\\bcb5c028-48ae-4ae6-ad90-302fbd28ff56_block0000.enc"
+        },
+        {
+          "node": "datanode3",
+          "path": "C:\\Users\\Prem Vilas Nikam\\OneDrive\\Attachments\\Documents\\cloud_file_transfer\\server\\storage\\datanode3\\bcb5c028-48ae-4ae6-ad90-302fbd28ff56_block0000.enc"
+        }
+      ]
+    }
+  ]
+}
